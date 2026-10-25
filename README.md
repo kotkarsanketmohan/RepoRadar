@@ -60,7 +60,6 @@ RepoRadar/
 ├── frontend/   
 ├── docs/        
 ├── render.yaml  
-├── LICENSE
 └── README.md
 ```
 
